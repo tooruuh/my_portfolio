@@ -34,8 +34,8 @@ export default function Projects() {
             <p>Projeto desenvolvido em grupo, uma aplicação em ReactJS para facilitar o gerenciamento de restaurentes
               ao criar comandas e fazer pedidos, utilizando um fake json server, aplicação hospedada no Vercel.
             </p>
-            <a href="https://kenzie-gastrobar-blue.vercel.app" target='blank'>Visitar</a>
-            <a href="https://github.com/tooruuh/kenzie_gastrobar" target='blank'>Repositório</a>
+            <a href="https://kenzie-gastrobar-blue.vercel.app" target='_blank'>Visitar</a>
+            <a href="https://github.com/tooruuh/kenzie_gastrobar" target='_blank'>Repositório</a>
           </div>
         </Card>
 
@@ -48,8 +48,8 @@ export default function Projects() {
             <p>Projeto pessoal desenvoldido no curso da Kenzie Academy, feito em ReactJS
               simulando um e-commerce de relógios
             </p>
-            <a href="https://react-entrega-s3-kenzishop-com-context-api-tooruuh-tooruuh.vercel.app/" target='blank'>Visitar</a>
-            <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzishop-com-context-api-tooruuh" target='blank'>Repositório</a>
+            <a href="https://react-entrega-s3-kenzishop-com-context-api-tooruuh-tooruuh.vercel.app/" target='_blank'>Visitar</a>
+            <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzishop-com-context-api-tooruuh" target='_blank'>Repositório</a>
           </div>
         </Card>
 
@@ -61,8 +61,8 @@ export default function Projects() {
             <h2>Hamburgueria Kenzie</h2>
             <p>Projeto simples desenvoldido no curso da Kenzie Academy, uma page de uma hamburgueria simulando um e-commerce. 
               Projeto desenvolvido em ReactJS</p>
-            <a href="https://react-entrega-s1-hamburgueria-da-kenzie-tooruuh.vercel.app/" target='blank'>Visitar</a>
-            <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-tooruuh" target='blank'>Repositório</a>
+            <a href="https://react-entrega-s1-hamburgueria-da-kenzie-tooruuh.vercel.app/" target='_blank'>Visitar</a>
+            <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-tooruuh" target='_blank'>Repositório</a>
           </div>
         </Card>
 
@@ -73,8 +73,8 @@ export default function Projects() {
           <div className="content">
             <h2>Kenzie Hub</h2>
             <p>Aplicação para gestão de estudo, para maior controle dos conteudos já estudados e que ainda precisa estudar.</p>
-            <a href="https://react-entrega-s2-kenzie-hub-tooruuh.vercel.app/" target='blank'>Visitar</a>
-            <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-tooruuh" target='blank'>Repositório</a>
+            <a href="https://react-entrega-s2-kenzie-hub-tooruuh.vercel.app/" target='_blank'>Visitar</a>
+            <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-tooruuh" target='_blank'>Repositório</a>
           </div>
         </Card>
 
