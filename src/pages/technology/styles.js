@@ -115,7 +115,7 @@ export const TituloPage = styled.div`
 
 export const ContentText = styled.div`
     position: absolute;
-    bottom: 23%;
+    bottom: 17%;
     left: 33%;
     width: 200px;
     display: flex;
@@ -132,6 +132,7 @@ export const ContentText = styled.div`
     
         :hover{
             letter-spacing: 0.3em;
+            color: var(--green);
         }
     }
 `
@@ -151,7 +152,7 @@ export const BackEnd = styled.div`
         align-items: center;
         letter-spacing: 0.2em;
         justify-content: center;
-        background: var(--orange);
+        background: var(--green);
         font-size: 1.2rem;
         cursor: default;
 
